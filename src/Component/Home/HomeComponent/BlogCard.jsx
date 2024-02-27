@@ -13,7 +13,7 @@ const BlogCard = () => {
               {/* card 1  */}
 
    <div>
-   <div className='flex items-center bg-orange-500 text-white w-36 py-1 rounded-r-xl mx-8'> <CiTrophy className='mx-2' /> <p>
+   <div className='flex items-center bg-orange-500 text-white w-36 py-1 rounded-r-xl mx-8 mt-8'> <CiTrophy className='mx-2' /> <p>
  Best Choice</p></div>   
 
 <div className='grid grid-cols-1 md:grid-cols-3  gap-4 p-8 '>
